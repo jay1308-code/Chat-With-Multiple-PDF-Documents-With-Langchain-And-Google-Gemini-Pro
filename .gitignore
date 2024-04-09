@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 faiss_index/
+GEMINI_PDF_CHAT/
